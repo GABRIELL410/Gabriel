@@ -6,3 +6,5 @@ Cosas quie me gustan hacer:
 -jugar futbol
 -Escuchar musica 
 #Dades personals
+Nombre: Gabriel Leonardo Santoya Arana
+Ubicación: Barcelona, Catalunya
