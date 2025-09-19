@@ -5,6 +5,8 @@ Cosas quie me gustan hacer:
 -ver videos
 -jugar futbol
 -Escuchar musica 
-#Dades personals
-Nombre: Gabriel Leonardo Santoya Arana
-Ubicación: Barcelona, Catalunya
+# **Dades personals**
+Nombre: **Gabriel Leonardo Santoya Arana**
+Ubicación: **Barcelona, Catalunya**
+Email:gabrielleonardosantoyaarana@ElPuig.xeill.net
+Edad: **15**
