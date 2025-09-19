@@ -1,6 +1,6 @@
 # Gabriel
 Me llamo Gabriel tengo 15 años actualmente vivo en España. Estoy haciendo un ciclo medio de informatica.
-Cosas quie me gustan hacer:
+Cosas que me gustan hacer:
 
 -Jugar videojuegos
 
@@ -10,7 +10,7 @@ Cosas quie me gustan hacer:
 
 -Escuchar musica 
 # **Dades personals**
-Nombre: **Gabriel Leonardo Santoya Arana**
+Nombre: **Gabriel**
 Ubicación: **Barcelona, Catalunya**
-Email:gabrielleonardosantoyaarana@ElPuig.xeill.net
-Edad: **15**
+Email:gabrieeel@ElPuig.xeill.net
+Edad: **20**
