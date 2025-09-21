@@ -25,13 +25,15 @@ Edad: **20**
 # **Educación**
 -Educación secundaria obligatoria (ESO)
 Institut Príncep de Viana (2021-2025)
+
 -Actualmente en un Ciclo formativo de grado medio de Informatica
 Institut Puig Castellar (cursandolo actualmente)
+
 # **Experiencía Laboral**
  - Reparador de ordenadores
-   Empresa *Cleverals* (2023)
+   -Empresa *Cleverals* (2023)
  Reparación y mantenimiento básico de ordenadores.
  
  - Creación de pagina web
-   Empresa *ADDIS* (2024)
+   -Empresa *ADDIS* (2024)
    Creación de páginas web sencillas con HTML y CSS.
