@@ -1,16 +1,14 @@
-# Gabriel
-Me llamo Gabriel tengo 15 años actualmente vivo en España. Estoy haciendo un ciclo medio de informatica.
-Cosas que me gustan hacer:
-
--Jugar videojuegos
-
--ver videos
-
--jugar futbol
-
+# Introducción
+Me llamo Gabriel,tengo 15 años, vivo en españa. me gusta mucho la informatica, actualmente estoy en un ciclo de grado medio de informatica, me gusta aprender, tambien me gusta jugar futbol, videojuegos y escuchar musica.
 -Escuchar musica 
-# **Dades personals**
+# **Datos personales**
 Nombre: **Gabriel**
 Ubicación: **Barcelona, Catalunya**
 Email:gabrieeel@ElPuig.xeill.net
 Edad: **20**
+# **Aficiones y intereses**
+- Futbol
+- Videojuegos
+- Escuchar musica
+-Montaje de ordenadores
+-Programación
