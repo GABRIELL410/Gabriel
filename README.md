@@ -13,8 +13,7 @@ Edad: **20**
 
 # **Aficiones y intereses**
 - Futbol
-- ![text alternatiu](https://www.bing.com/images/search?view=detailV2&ccid=pU8%2fDkq8&id=8A62DDBB107B7526783064EBA2E6426B15386552&thid=OIP.pU8_Dkq85jSNjrwWIaDUsgHaE6&mediaurl=https%3a%2f%2fwww.caracteristicasdel.com%2fwp-content%2fuploads%2f2022%2f10%2fFutbol.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a54f3f0e4abce6348d8ebc1621a0d4b2%3frik%3dUmU4FWtC5qLrZA%26pid%3dImgRaw%26r%3d0&exph=443&expw=667&q=futbol&FORM=IRPRST&ck=2F4893E6490533EACAB4C0A54BF9E48E&selectedIndex=7&itb=0)
-
+- ![Imatge d'exemple](https://www.bing.com/images/search?)
 - Videojuegos
 
 - Escuchar musica
