@@ -12,3 +12,6 @@ Edad: **20**
 - Escuchar musica
 -Montaje de ordenadores
 -Programación
+# **Educación**
+-Educación secundaria obligatoria (ESO)
+-Ciclo formativo de grado medio de Informatica
