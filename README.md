@@ -55,4 +55,6 @@ Técnicas:
 - Organización y planificación
 
 # **Redes sociales**
-- Instagram: [Google](https://www.instagram.com/Gabriell/)
+- Instagram: [Instagram](https://www.instagram.com/Gabriel16736l/)
+- Github:[Github](https://github.com/GABRIELL410/Gabriel/edit/main/README.md)
+- Twitter:[Twitter](https://x.com/gabriel222103/)
