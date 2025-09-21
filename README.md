@@ -38,19 +38,21 @@ Institut Puig Castellar (cursandolo actualmente)
    -Empresa *ADDIS* (2024)
    Creación de páginas web sencillas con HTML y CSS.
 
-# ** Proyectos destacados**
+# **Proyectos destacados**
 - Uno de mis proyectos a destacar es mi canal de Twich.
   Un espacio donde comparto lo que más me gusta y debatimos sobre polémicas
 - Projecte Arduino en equip
 Creació de prototips i aprenentatge pràctic amb Arduino Blocks.
 
 # **Habilidades**
-Tècniques:
-- Programació (Python, Java, JavaScript, HTML/CSS)
-- Diagnòstic i reparació d’ordinadors
-- Arduino i electrònica bàsica
+Técnicas:
+- Programación (Python, Java, JavaScript, HTML/CSS)
+- Diagnóstico y reparación de ordenadores
+- Arduino y electrónica básica
 
-Soft skills:
-- Treball en equip
-- Organització i planificació
-- Capacitat d’aprenentatge continu
+- Personales (soft skills):
+- Trabajo en equipo
+- Organización y planificación
+
+# **Redes sociales**
+- Instagram: [Google](https://www.instagram.com/Gabriell/)
