@@ -37,3 +37,20 @@ Institut Puig Castellar (cursandolo actualmente)
  - Creación de pagina web
    -Empresa *ADDIS* (2024)
    Creación de páginas web sencillas con HTML y CSS.
+
+# ** Proyectos destacados**
+- Uno de mis proyectos a destacar es mi canal de Twich.
+  Un espacio donde comparto lo que más me gusta y debatimos sobre polémicas
+- Projecte Arduino en equip
+Creació de prototips i aprenentatge pràctic amb Arduino Blocks.
+
+# **Habilidades**
+Tècniques:
+- Programació (Python, Java, JavaScript, HTML/CSS)
+- Diagnòstic i reparació d’ordinadors
+- Arduino i electrònica bàsica
+
+Soft skills:
+- Treball en equip
+- Organització i planificació
+- Capacitat d’aprenentatge continu
