@@ -62,4 +62,4 @@ Técnicas:
 - Twitter:[Twitter](https://x.com/gabriel222103/)
 
 # ** Fotografía**
-![PC](https://www.bing.com/images/search?view=detailV2&ccid=mymiwe2c&id=249DFA2DF1FD5D31329382E685A2CE7F4F5E3B11&thid=OIP.mymiwe2cGm8Lpf5rzv4PMAHaE8&mediaurl=https%3a%2f%2fwaltostech.com%2fblog%2fwp-content%2fuploads%2f2023%2f08%2fReparacion-PC-1024x683.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9b29a2c1ed9c1a6f0ba5fe6bcefe0f30%3frik%3dETteT3%252fOooXmgg%26pid%3dImgRaw%26r%3d0&exph=683&expw=1024&q=reparando+pc&FORM=IRPRST&ck=54A70D90DEFB1EB1D0D24A7E645C43A8&selectedIndex=12&itb=0).
+![Image](https://github.com/user-attachments/assets/39715582-a490-4bcc-a452-5fb09bb85cfa)
