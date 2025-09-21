@@ -24,5 +24,6 @@ Edad: **20**
 
 # **Educación**
 -Educación secundaria obligatoria (ESO)
-
--Ciclo formativo de grado medio de Informatica
+Institut Príncep de Viana (2021-2025)
+- Actualmente en un Ciclo formativo de grado medio de Informatica
+Institut Puig Castellar (cursandolo actualmente)
