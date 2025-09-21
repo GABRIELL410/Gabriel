@@ -13,7 +13,7 @@ Edad: **20**
 
 # **Aficiones y intereses**
 - Futbol
-- ![Imatge d'exemple](https://www.bing.com/images/search?)
+
 - Videojuegos
 
 - Escuchar musica
@@ -61,5 +61,5 @@ Técnicas:
 
 - Twitter:[Twitter](https://x.com/gabriel222103/)
 
-# ** Fotografía**
+# **Fotografía de mis intereses**
 ![Image](https://github.com/user-attachments/assets/39715582-a490-4bcc-a452-5fb09bb85cfa)
