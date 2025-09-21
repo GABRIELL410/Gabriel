@@ -63,3 +63,4 @@ Técnicas:
 
 # **Fotografía de mis intereses**
 ![Image](https://github.com/user-attachments/assets/39715582-a490-4bcc-a452-5fb09bb85cfa)
+![Image](https://github.com/user-attachments/assets/b48f4115-1ff1-44ff-af2c-f2d88d0a2a77)
