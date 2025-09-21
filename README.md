@@ -56,5 +56,7 @@ Técnicas:
 
 # **Redes sociales**
 - Instagram: [Instagram](https://www.instagram.com/Gabriel16736l/)
+
 - Github:[Github](https://github.com/GABRIELL410/Gabriel/edit/main/README.md)
+
 - Twitter:[Twitter](https://x.com/gabriel222103/)
