@@ -12,15 +12,15 @@ Email:gabrieeel@ElPuig.xeill.net
 Edad: **20**
 
 # **Aficiones y intereses**
--Futbol
+- Futbol
 
--Videojuegos
+- Videojuegos
 
--Escuchar musica
+- Escuchar musica
 
--Montaje de ordenadores
+- Montaje de ordenadores
 
--Programación
+- Programación
 
 # **Educación**
 -Educación secundaria obligatoria (ESO)
